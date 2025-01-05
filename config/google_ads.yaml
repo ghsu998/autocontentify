@@ -1,0 +1,23 @@
+# Google Ads API 配置文件
+
+# 开发者令牌，您可以从 Google Ads 生产账户的开发者控制台获得。
+# 此令牌用来对 API 请求进行身份验证。
+developer_token: ddEtBzo8m4ZYLKtUSnf9w  # 保持不變，或檢查是否正確
+
+# 客户端 ID 和客户端密钥，您可以从 Google API 控制台获得。用于 OAuth 2.0 身份验证。
+client_id: 55322711809-q8cjpvahnb0prkrl1j7flfimvo914vjp.apps.googleusercontent.com
+client_secret: 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
+
+# 刷新令牌，您可以使用 `generate_refresh_token.py` 脚本生成这个令牌。
+# 令牌允许程序获得对 Google Ads API 的长期访问权限。
+refresh_token: 1//06ImXVs7v1CoaCgYIARAAGAYSNwF-L9IrtXl_LMt4uQiH_4a5TP-b8xOFSvTEfJOSQMwq5lg0UAgwo9fftiNMvJHo8GfkQqYRXuA
+
+# 管理账户 ID，这个是您使用的测试经理账户 ID，用来作为 "login-customer-id"。
+# "login-customer-id" 是用来让 API 请求指向正确的管理账户，确保您可以访问客户账户。
+login-customer-id: 9411183043  # 根據你的 Google Ads Manager 設定
+customer_id: 5141511711       # Google Ads Account ID
+
+
+
+# 使用 proto_plus 特性，这会启用 Google Ads API 的 ProtoPlus 功能。
+use_proto_plus: true

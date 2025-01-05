@@ -1,0 +1,77 @@
+App 1615630 output: tput: No value for $TERM and no -T specified
+App 1615630 output: Traceback (most recent call last):
+App 1615630 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 384, in <module>
+App 1615630 output:     app_module = load_app()
+App 1615630 output:                  ^^^^^^^^^^
+App 1615630 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 88, in load_app
+App 1615630 output:     spec.loader.exec_module(app_module)
+App 1615630 output:   File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+App 1615630 output:   File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+App 1615630 output:   File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+App 1615630 output:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+App 1615630 output:   File "/home/mi6mx8v4vo5c/public_html/autocontentify/passenger_wsgi.py", line 9
+App 1615630 output:     application = wsgi.app:app
+App 1615630 output:                           ^
+App 1615630 output: SyntaxError: invalid syntax
+App 1648981 output: tput: No value for $TERM and no -T specified
+App 1648981 output: Traceback (most recent call last):
+App 1648981 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 384, in <module>
+App 1648981 output:     app_module = load_app()
+App 1648981 output:                  ^^^^^^^^^^
+App 1648981 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 88, in load_app
+App 1648981 output:     spec.loader.exec_module(app_module)
+App 1648981 output:   File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+App 1648981 output:   File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+App 1648981 output:   File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+App 1648981 output:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+App 1648981 output:   File "/home/mi6mx8v4vo5c/public_html/autocontentify/passenger_wsgi.py", line 9
+App 1648981 output:     application = wsgi.app:app
+App 1648981 output:           
+App 1648981 output:                 ^
+App 1648981 output: SyntaxError: invalid syntax
+App 1877142 output: tput: No value for $TERM and no -T specified
+App 1877142 output: Traceback (most recent call last):
+App 1877142 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 384, in <module>
+App 1877142 output:     app_module = load_app()
+App 1877142 output:                  ^^^^^
+App 1877142 output: ^^^^^
+App 1877142 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 88, in load_app
+App 1877142 output:     spec.loader.exec_module(app_module)
+App 1877142 output:   File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+App 1877142 output:   File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+App 1877142 output:   File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+App 1877142 output:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+App 1877142 output:   File "/home/mi6mx8v4vo5c/public_html/autocontentify/passenger_wsgi.py", line 9
+App 1877142 output:     application = wsgi.app:app
+App 1877142 output:                           ^
+App 1877142 output: SyntaxError: invalid syntax
+App 1899752 output: tput: No value for $TERM and no -T specified
+App 1899752 output: Traceback (most recent call last):
+App 1899752 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 384, in <module>
+App 1899752 output:     app_module = load_app()
+App 1899752 output:                  ^^^^^^^^^^
+App 1899752 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 88, in load_app
+App 1899752 output:     spec.loader.exec_module(app_module)
+App 1899752 output:   File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+App 1899752 output:   File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+App 1899752 output:   File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+App 1899752 output:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+App 1899752 output:   File "/home/mi6mx8v4vo5c/public_html/autocontentify/passenger_wsgi.py", line 9
+App 1899752 output:     application = wsgi.app:app
+App 1899752 output:                           ^
+App 1899752 output: SyntaxError: invalid syntax
+App 1923913 output: tput: No value for $TERM and no -T specified
+App 1923913 output: Traceback (most recent call last):
+App 1923913 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 384, in <module>
+App 1923913 output:     app_module = load_app()
+App 1923913 output:                  ^^^^^^^^^^
+App 1923913 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 88, in load_app
+App 1923913 output:     spec.loader.exec_module(app_module)
+App 1923913 output:   File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+App 1923913 output:   File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+App 1923913 output:   File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+App 1923913 output:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+App 1923913 output:   File "/home/mi6mx8v4vo5c/public_html/autocontentify/passenger_wsgi.py", line 9
+App 1923913 output:     application = wsgi.app:app
+App 1923913 output:                           ^
+App 1923913 output: SyntaxError: invalid syntax
