@@ -1,0 +1,56 @@
+# 排除虛擬環境
+venv/
+
+# 排除 Python 編譯文件
+*.pyc
+*.pyo
+__pycache__/
+
+# 排除 config 資料夾
+config/
+
+# 排除敏感配置文件
+config/*.pickle
+config/google_ads_credentials.json
+config/google_ads.yaml
+config/db_config.json
+config/shopify_config.json
+*.env
+
+# 排除日誌文件
+*.log
+logs/
+
+# 排除操作系統生成的臨時文件
+.DS_Store
+Thumbs.db
+
+# 排除 IDE/編輯器配置文件
+.vscode/
+.idea/
+*.swp
+
+# 排除臨時文件
+tmp/
+*.tmp
+*.bak
+
+# 排除壓縮文件
+*.tar.gz
+*.zip
+
+# macOS 系統文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS 系統資料夾
+__MACOSX/
+.Spotlight-V100
+.Trashes
+
+# 特定存儲服務生成的文件（如 Google Drive、iCloud）
+._*
+
+# 與 macOS 關聯的其他文件
+.DS_Store?
