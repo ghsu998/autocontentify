@@ -9,7 +9,6 @@ The project is organized as follows:
 ```
 autocontentify/
 ├── config/
-│   ├── __init__.py
 │   ├── common.py
 │   ├── credentials.pickle
 │   ├── db_config.json
@@ -22,9 +21,7 @@ autocontentify/
 │   ├── openai_api.log
 │   └── sync_logs.log
 ├── modules/
-│   ├── __init__.py
 │   ├── api/
-│   │   ├── generate_refresh_token.pygoogle_ads_api.py
 │   │   ├── google_ads_api.py
 │   │   ├── openai_api.py
 │   │   ├── shopify_api.py
