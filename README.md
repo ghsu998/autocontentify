@@ -36,9 +36,7 @@ autocontentify/
 │   │   ├── google_ads_keyword_historical.py
 │   │   ├── google_ads_keyword_plan.py
 │   │   ├── google_ads_search_campaign_manager.py
-│   │   ├── main.py
 │   │   ├── product_sync_db_with_shopify_module.py
-├── tests/
 ├── venv/
 │   ├── bin/
 │   ├── include/
@@ -46,10 +44,9 @@ autocontentify/
 ├── .env
 ├── .gitignore
 ├── app.py
-├── credentials.pickle
+├── main.py
 ├── README.md
-├── requirements.txt
-└── update_and_push.py
+└── requirements.txt
 ```
 
 ## AutoContentify Features
